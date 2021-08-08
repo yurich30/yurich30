@@ -11,8 +11,12 @@
 
 ### ✉️ Mail me: yurich3098@gmail.com
 ### 🌐 Telegram: @yurii_vitenko
-![Yurii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurich30&show_icons=true&theme=chartreuse-dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurich30&layout=compact&theme=chartreuse-dark&hide=glsl)
+<a href="https://github.com/yurich30/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yurich30&show_icons=true&theme=chartreuse-dark&count_private=true" />
+</a>
+<a href="https://github.com/yurich30/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurich30&layout=compact&theme=chartreuse-dark&hide=glsl" />
+</a>
 
 
 
@@ -51,6 +55,9 @@
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="65" height="65">
     <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" width="65" height="65">
 <p>
+
+![Yurii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurich30&show_icons=true&theme=chartreuse-dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurich30&layout=compact&theme=chartreuse-dark&hide=glsl)
 
 **Here you can see my CV: [click on THIS link](https://drive.google.com/file/d/1oahOcCZp6SI4TqD3tdlWit1SLXoOopyb/view?usp=sharing)**
 
