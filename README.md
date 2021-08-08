@@ -11,8 +11,8 @@
 
 ### ✉️ Mail me: yurich3098@gmail.com
 ### 🌐 Telegram: @yurii_vitenko
-![Yurii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurich30&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurich30&layout=compact&theme=tokyonight&hide=glsl)
+![Yurii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurich30&show_icons=true&theme=chartreuse-dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurich30&layout=compact&theme=chartreuse-dark&hide=glsl)
 
 
 
