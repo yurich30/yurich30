@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurich30&layout=compact&theme=chartreuse-dark&hide=glsl" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurich30&repo=daily-moments&theme=chartreuse-dark)](https://github.com/yurich30/daily-moments)
+
 
 
 
@@ -61,6 +61,7 @@
 
 ![Yurii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurich30&show_icons=true&theme=chartreuse-dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurich30&layout=compact&theme=chartreuse-dark&hide=glsl)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurich30&repo=daily-moments&theme=chartreuse-dark)](https://github.com/yurich30/daily-moments)
 
 **Here you can see my CV: [click on THIS link](https://drive.google.com/file/d/1oahOcCZp6SI4TqD3tdlWit1SLXoOopyb/view?usp=sharing)**
 
