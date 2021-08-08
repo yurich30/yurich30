@@ -8,6 +8,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
+<p>
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="65" height="65">
+    <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" width="65" height="65">
+<p>
 ### ✉️ Mail me: yurich3098@gmail.com
 ### 🌐 Telegram: @yurii_vitenko
 ![Yurii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurich30&show_icons=true&theme=radical&count_private=true)
