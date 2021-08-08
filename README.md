@@ -11,12 +11,15 @@
 
 ### ✉️ Mail me: yurich3098@gmail.com
 ### 🌐 Telegram: @yurii_vitenko
+
 <a href="https://github.com/yurich30/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yurich30&show_icons=true&theme=chartreuse-dark&count_private=true" />
 </a>
 <a href="https://github.com/yurich30/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurich30&layout=compact&theme=chartreuse-dark&hide=glsl" />
 </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurich30&repo=daily-moments&theme=chartreuse-dark)](https://github.com/yurich30/daily-moments)
 
 
 
