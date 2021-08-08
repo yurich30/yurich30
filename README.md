@@ -10,4 +10,4 @@
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ### ✉️ Mail me: yurich3098@gmail.com
 ### 🌐 Telegram: @yurii_vitenko
-[![Yurii`s GitHub stats](https://github-readme-stats.vercel.app/api?username=yurich30)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+[![Yurii`s GitHub stats](https://github-readme-stats.vercel.app/api?username=yurich30)](https://github.com/anuraghazra/github-readme-stats&count_private=trueshow_icons=true)
