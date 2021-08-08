@@ -18,7 +18,7 @@
   <a href="https://github.com/yurich30/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurich30&layout=compact&theme=chartreuse-dark&hide=glsl" />
   </a>
-</div
+</div>
 
 
 
